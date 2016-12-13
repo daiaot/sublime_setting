@@ -1,0 +1,5 @@
+{
+	"trailing_spaces_highlight_color": "invalid",
+  "trailing_spaces_regexp": "　|[ \t]+", //全角スペースを正規表現に追加
+  "trailing_spaces_highlight_color" : "comment" //コメントの色でハイライト
+}

@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"BlessCss",
+		"BracketHighlighter",
+		"Codecs33",
+		"Color Highlighter",
+		"Compass",
+		"ConvertToUTF8",
+		"CTags",
+		"DataConverter",
+		"Emmet",
+		"EncodingHelper",
+		"Git",
+		"GitGutter",
+		"Japanize",
+		"List stylesheet variables",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"RecentActiveFiles",
+		"Sass",
+		"SASS Build",
+		"SASS Snippets",
+		"SassBeautify",
+		"Sublime Files",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SummitLinter",
+		"TrailingSpaces"
+	]
+}
